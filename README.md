@@ -1,5 +1,3 @@
-View online at https://github.com/lherbold/blender-readme/blob/main/README.md.
-
 # Overview
 Contained in this directory is a sample blender scene, `sky.blend`. This scene has a camera and a model (split into individual geometry pieces). There are also three scripts in the `/scripts` directory:
 1) `export.py`: The python script that we will run inside blender to generate images.
